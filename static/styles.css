@@ -1,0 +1,12 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+}
+form input, form select, form button {
+    margin: 5px;
+    padding: 10px;
+}
